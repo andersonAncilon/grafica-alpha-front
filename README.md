@@ -11,3 +11,27 @@
     # yarn start
 
 # ENJOY! 
+
+## Task List of the Front End:
+
+### Authentication
+
+- [ ] Handle Authentication;
+- [ ] Access Controll;
+
+### Register
+
+- [ ] Handle Registration;
+
+### Home Page
+
+- [ ] Login container;
+- [ ] NavBar component;
+- [ ] Footer component;
+
+### Order-List Page
+
+- [ ] DashBoard container;
+- [ ] Filter order by department;
+
+

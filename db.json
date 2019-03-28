@@ -1,0 +1,11 @@
+{
+    "order": [
+        { "id" : 0, "department": "Corte", "orderContent": "Uma camisa"  },
+        { "id" : 1, "department": "Compra", "orderContent": "Um short"  },
+        { "id" : 2, "department": "Costura", "orderContent": "Um casaco"  },
+        { "id" : 3, "department": "Compra", "orderContent": "Um tenis ???"  }
+    ],
+    "departments": [
+        "Corte", "Costura", "Compra"
+    ]
+}
