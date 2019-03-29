@@ -26,12 +26,12 @@
 ### Home Page
 
 - [ ] Login container;
-- [ ] NavBar component;
+- [X] NavBar component;
 - [ ] Footer component;
 
 ### Order-List Page
 
-- [ ] DashBoard container;
-- [ ] Filter order by department;
+- [X] DashBoard container;
+- [X] Filter order by department;
 
 
